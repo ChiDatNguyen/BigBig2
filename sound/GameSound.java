@@ -8,7 +8,7 @@ public class GameSound {
 	public static GameSound instance;
 
 	public static final String MENU = "menu.wav";
-	public static final String PLAYGAME = "playgame.mid";
+	public static final String PLAYGAME = "playgame.wav";
 	public static final String BOMB = "newbomb.wav";
 	public static final String BOMBER_DIE = "bomber_die.wav";
 	public static final String MONSTER_DIE = "monster_die.wav";
